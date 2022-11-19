@@ -2,7 +2,7 @@ contact:
 >email: echo "aGVsbG9Aam9zaHVhYWJlbC5jb20K" | base64 -d
 
 pgp public key fingerprint:\
-A809 1EF9 0AEE 24A0 B195  327E C040 85D4 4BFC 2906
+- A809 1EF9 0AEE 24A0 B195  327E C040 85D4 4BFC 2906
 
 current:
 - manager, site reliability engineering
