@@ -1,36 +1,25 @@
-```yaml
-name: joshua abel
-roles:
-    current:
-        - manager, site reliability engineering @ jamf
-    past:
-        - site reliability engineer @ surescripts
-        - senior devops engineer @ shutterfly
-        - senior systems engineer @ sap
-skills:
-    sre:
-        - monitoring & observability
-        - service level objectives
-        - error budgets
-        - problem management
-        - incident management
-        - blameless postmortems
-        - operational readiness reviews
-    devops:
-        - aws
-        - docker
-        - kubernetes
-        - terraform
-        - cloud formation
-        - ansible
-        - jenkins
-psychological:
-        - (myers-briggs) entj
-        - (strengthfinders) command, relator, activator, self-assurance, focus
-        - (disc type) d
 contact:
-    - hello@joshuaabel.com
-    - [pgp public key fingerprint] A809 1EF9 0AEE 24A0 B195  327E C040 85D4 4BFC 2906
-    - https://joshuaabel.com
-    - https://www.linkedin.com/in/jabel/
-```
+>echo "aGVsbG9Aam9zaHVhYWJlbC5jb20K" | base64 -d
+
+current:
+> - manager, site reliability engineering
+
+previous:
+> - site reliability engineer
+> - senior devops engineer
+> - captain, firefighter
+> - senior systems engineer
+> - firefighter
+> - linux systems engineer II
+> - systems administrator
+> - network admninistrator
+
+passed some tests:
+> - red hat certified systems administrator
+> - red hat certified engineer
+> - amateur (ham) radio license: amateur extra
+> - amazon web services cloud practitioner
+> - certified safe® 5 practitioner
+> - certified safe® 5 agilist
+> - jamf certified tech
+> - jamf certified associate
