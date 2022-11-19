@@ -14,7 +14,7 @@ previous:
 - systems administrator
 - network admninistrator
 
-passed some tests:
+certifications:
 - red hat certified systems administrator
 - red hat certified engineer
 - amateur (ham) radio license: amateur extra
